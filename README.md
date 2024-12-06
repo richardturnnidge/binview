@@ -58,7 +58,8 @@ _binview afile.bin 6 d_
 
 ![](./bv6.png)
 
-_binview poem.txt 16
+_binview poem.txt 16_
+
 
 
 
