@@ -37,7 +37,7 @@ The display format is whether to show Hexadecimal, Decimal, or Binary format.
 An ascii representation will also be dsiplayed, where possible, so it can be useful for quickly checking text-based files.
 
 
-![image](https://github.com/user-attachments/assets/96cb868b-cfdc-44e7-a174-5b676668f77b)
+![bv4.png]
 
 bv1.png
 
