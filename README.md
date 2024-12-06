@@ -37,21 +37,27 @@ The display format is whether to show Hexadecimal, Decimal, or Binary format.
 An ascii representation will also be displayed, where possible, so it can be useful for quickly checking text-based files.
 
 ![](./bv1.png)
+
 _binview afile.bin_
 
 ![](./bv2.png)
+
 _binview afile.bin 12_
 
 ![](./bv3.png)
+
 _binview afile.bin 6_
 
 ![](./bv4.png)
+
 _binview afile.bin 6 d_
 
 ![](./bv5.png)
+
 _binview afile.bin 6 d_
 
 ![](./bv6.png)
+
 _binview poem.txt 16
 
 
