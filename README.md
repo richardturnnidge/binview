@@ -34,5 +34,17 @@ The columns argument is simply how many rows of vertical columns of data should 
 
 The display format is whether to show Hexadecimal, Decimal, or Binary format.
 
-An ascii representation will also be dsiplayed, where possible.
+An ascii representation will also be dsiplayed, where possible, so it can be useful for quickly checking text-based files.
+
+![bv1]
+
+![bv2]
+
+![bv3]
+
+![bv4]
+
+![bv5]
+
+![bv6]
 
