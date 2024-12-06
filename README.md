@@ -36,6 +36,8 @@ The display format is whether to show Hexadecimal, Decimal, or Binary format.
 
 An ascii representation will also be dsiplayed, where possible, so it can be useful for quickly checking text-based files.
 
+bv1.png
+
 ![bv1.png]
 
 ![bv2.png]
