@@ -54,7 +54,7 @@ _binview afile.bin 6 d_
 
 ![](./bv5.png)
 
-_binview afile.bin 6 d_
+_binview afile.bin 6 b_
 
 ![](./bv6.png)
 
