@@ -23,9 +23,9 @@ b = binary`
 
 For example:
 
-`binview samplefile.mod` will use a default of 8 columns and show hexadecimal.
+`binview samplefile.mod` will use a default of 8 columns and show hexadecimal as default.
 
-`binview samplefile.mod 4` will use 4 columns and show hexadecimal.
+`binview samplefile.mod 4` will use 4 columns and show hexadecimal as default.
 
 `binview samplefile.mod 4 d` will use 4 columns and show decimal.
 
